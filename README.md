@@ -7,11 +7,10 @@
 </a>
 
 <a href="https://apps.apple.com/us/app/feita-em-casa/id1529540506?mt=8">
-<img style="margin:0 10px" width="140px" alt="Get it on App Store" src="https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-08-28&kind=iossoftware&bubble=ios_apps"/>
+<img style="margin:0 10px" width="140px" alt="Get it on App Store" src="https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?kind=iossoftware"/>
 </a>
 
 
 # The idea
 
 Create an app to search recipes by ingredient instead of name.
-
